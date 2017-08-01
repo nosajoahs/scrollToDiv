@@ -1,6 +1,6 @@
 {
   "name": "scrolltodiv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "scrolls to specific div on one mouseWheel or scroll up / down",
   "main": "scrollToDiv.js",
   "keywords": [
