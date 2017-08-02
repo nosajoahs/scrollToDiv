@@ -3,8 +3,11 @@
   "version": "1.0.3",
   "description": "scrolls to specific div on one mouseWheel or scroll up / down",
   "main": "scrollToDiv.js",
-  "url" : "https://github.com/Selectful/scrollToDiv", 
   "email" : "jason.shao.dev@gmail.com",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/Selectful/scrollToDiv"
+  },
   "keywords": [
     "animated",
     "animation",
