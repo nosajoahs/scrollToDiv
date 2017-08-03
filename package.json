@@ -1,6 +1,6 @@
 {
   "name": "scrolltodiv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "scrolls to specific div(s) specified on mouseWheel or trackpad movement",
   "main": "scrollToDiv.js",
   "email": "jason.shao.dev@gmail.com",
